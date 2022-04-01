@@ -2,4 +2,4 @@
 - 👀 I’m interested in economics, data science, machine learning, big data, statistics and learn about any economic topic that give a stong knowleadge.
 - 🌱 I’m currently learning R and Python programing focus on data science and statistics. I am new here.
 - 💞️ I’m looking to collaborate on Mexico goberment, private business and the academy in Mexico
-- 📫 How to reach me 1075663@alumnos.ujed.mx, currently I am a student, i don't have any stong knowledge but i hope learn as fast as I can.
+- 📫 How to reach me 1075663@alumnos.ujed.mx, currently I am a student, I don't have any stong knowledge but I hope learn as fast as I can.
